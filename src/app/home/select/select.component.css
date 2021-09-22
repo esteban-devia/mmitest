@@ -1,0 +1,15 @@
+.select-img{
+    background-image: url(../../../assets/images/hero.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin: auto;
+}
+.card {
+    min-height: 21rem;
+}
+.card-title{
+    font-size: 1.5rem;
+}
+.card-text {
+    min-height: 5.4rem;
+}

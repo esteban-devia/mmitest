@@ -1,0 +1,18 @@
+.step span {
+    font-size: 2rem;
+    color:#007bff;
+    font-weight: 700;
+}
+.steps-list {
+    width: 80%;
+    margin: auto;
+}
+.steps-list li {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.steps-list p {
+    margin-left: 1.48rem;
+    margin-bottom: 1.5rem;
+}

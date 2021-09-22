@@ -1,0 +1,12 @@
+.hero-bk{
+    background-image: url(../../../assets/images/hero.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.hero {
+    transform: translateY(20rem);
+    margin-left: 5rem;
+    color: #fff;
+    font-size: 5rem;
+    width: 50%;
+}
